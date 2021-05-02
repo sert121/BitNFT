@@ -1,0 +1,10 @@
+Pillow
+merkletools
+requests
+streamlit
+pandas
+numpy
+altair
+pandas
+docx2txt
+uuid
