@@ -504,7 +504,7 @@ col1,col2 = st.beta_columns(2)
 with col1:
     date1 = st.time_input("Starting Date")
 with col2:
-    date2 = st.time_input9'Ending Date")
+    date2 = st.time_input('Ending Date")
 
 
 
