@@ -244,8 +244,14 @@ rpcPort = 18332
 rpcUser = 'bitcoin'
 rpcPassword = 'kuchbhidaalo'
 # Accessing the RPC local server
+# serverURL = 'http://' + rpcUser + ':' + \
+#     rpcPassword + '@127.0.0.1:18332'
+
+# Accessing the RPC local server
 serverURL = 'http://' + rpcUser + ':' + \
-    rpcPassword + '@127.0.0.1:18332'
+    rpcPassword + '@206.189.131.95:18332'
+
+
 # Using the class defined in the bitcoin_rpc_class.py
 host = RPCHost(serverURL)
 
