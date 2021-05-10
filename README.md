@@ -5,7 +5,7 @@ An online medium to allow hassle-free certification of files on the BTC Testnet.
 ## Setup
 
 For setting up a full bitcoin node, please refer [BTC Core](https://bit.ly/3hg2TMy).  
-For a video-demo of the setup please refer [[1]](adasd.com)  
+For a video-demo of the setup please refer [[1]](https://drive.google.com/file/d/1FJwqIkqRVJ71aikOYbtEe5acMh3zFg4_/view?usp=sharing)  
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
 ```bash
 pip install -r requirements.txt 
