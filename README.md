@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Users can interact with the webapp available at [BitNFT](http://206.189.131.95:8501/).   
+Users can interact with the webapp available at [BitNFT](http://206.189.131.95:8502/).   
 To run the project locally : ```streamlit run blockchain_1.py```
 
 ### Project Walkthrough
