@@ -1,6 +1,6 @@
 # BitNFT
 
-An online medium to allow hassle-free certification of files on the BTC Testnet.
+An online medium to allow hassle-free certification of files on the BTC Testnet .
 
 ## Setup
 
